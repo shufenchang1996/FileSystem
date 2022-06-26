@@ -1,0 +1,22 @@
+/Users/fensmacbook/Desktop/career/netPay/FileSystem/./testData/.DS_Store	File
+/Users/fensmacbook/Desktop/career/netPay/FileSystem/./testData/Document	Directory
+/Users/fensmacbook/Desktop/career/netPay/FileSystem/./testData/Document/.DS_Store	File
+/Users/fensmacbook/Desktop/career/netPay/FileSystem/./testData/Document/image	Directory
+/Users/fensmacbook/Desktop/career/netPay/FileSystem/./testData/Document/image/image1.JPG	File
+/Users/fensmacbook/Desktop/career/netPay/FileSystem/./testData/Document/image/image2.JPG	File
+/Users/fensmacbook/Desktop/career/netPay/FileSystem/./testData/Document/image/image3.png	File
+/Users/fensmacbook/Desktop/career/netPay/FileSystem/./testData/Document/Works	Directory
+/Users/fensmacbook/Desktop/career/netPay/FileSystem/./testData/Document/Works/.DS_Store	File
+/Users/fensmacbook/Desktop/career/netPay/FileSystem/./testData/Document/Works/Accountant	Directory
+/Users/fensmacbook/Desktop/career/netPay/FileSystem/./testData/Document/Works/Accountant/Accounting.xls	File
+/Users/fensmacbook/Desktop/career/netPay/FileSystem/./testData/Document/Works/Accountant/AnnualReport.xls	File
+/Users/fensmacbook/Desktop/career/netPay/FileSystem/./testData/Document/Works/Letter.doc	File
+/Users/fensmacbook/Desktop/career/netPay/FileSystem/./testData/Program Files	Directory
+/Users/fensmacbook/Desktop/career/netPay/FileSystem/./testData/Program Files/.DS_Store	File
+/Users/fensmacbook/Desktop/career/netPay/FileSystem/./testData/Program Files/Mysql	Directory
+/Users/fensmacbook/Desktop/career/netPay/FileSystem/./testData/Program Files/Mysql/Mysql.com	File
+/Users/fensmacbook/Desktop/career/netPay/FileSystem/./testData/Program Files/Mysql/Mysql.exe	File
+/Users/fensmacbook/Desktop/career/netPay/FileSystem/./testData/Program Files/Skype	Directory
+/Users/fensmacbook/Desktop/career/netPay/FileSystem/./testData/Program Files/Skype/Skype.exe	File
+/Users/fensmacbook/Desktop/career/netPay/FileSystem/./testData/Program Files/Skype/Readme.txt	File
+/Users/fensmacbook/Desktop/career/netPay/FileSystem/./testData/fileStruct.txt	File
