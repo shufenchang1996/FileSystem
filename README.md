@@ -21,7 +21,7 @@ MySQL5.37 is selected because it is a stable version and easy to access without 
 ## Manual Steps
 - go to FileSystem directory
 ```bash
-cd FileSystem
+cd FileSystem #your FileSystem directory path
 ```
 - build docker with provided docker file
 ```bash
