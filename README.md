@@ -19,27 +19,29 @@ MySQL5.37 is selected because it is a stable version and easy to access without 
 - Columns inside node: id, name, path, type
 
 ## Manual Steps
-- go to FileSystem directory
+- 1. Go to FileSystem directory
 ```bash
 cd FileSystem #your FileSystem directory path
 ```
-- build docker with provided docker file
+- 2. Build docker with provided docker file
 ```bash
 make docker-up
 ```
-- run program with Maven
+- 3. Run program with Maven
 ```bash
 mvn clean compile
 ```
 ```bash
 mvn exec:java
 ```
-- user interface open
+- 4. User interface open
 
 ![](start.png)
 
-- search for certain file/directory with the user interface (eg. image)
+- 5. Search for certain file/directory with the user interface (eg. image)
 
-- see search result in the user interface
+![](search_input.png)
+
+- 6. See search result in the user interface
 
 ![](search_result.png)
