@@ -3,7 +3,7 @@
 File System Project allows users to search for files/directories with certain keyword and displays all matched files/directories under current directory to user interface.
 
 ## Environment
-MySQL5.37, Java17, Maven, JFX
+MySQL5.7, Java17, Maven, JFX
 
 ### Requirement
 - Docker
@@ -12,7 +12,7 @@ MySQL5.37, Java17, Maven, JFX
 - Maven
 
 ## Database
-MySQL5.37 is selected because it is a stable version and easy to access without charge.
+MySQL5.7 is selected because it is a stable version and easy to access without charge.
 
 - Database name: file
 - Table: node
