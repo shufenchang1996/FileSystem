@@ -1,24 +1,24 @@
-#File System Project
-##Brief
+# File System Project
+## Brief
 File System Project allows users to search for files/directories with certain keyword and displays all matched files/directories under current directory to user interface.
 
-##Environment
+## Environment
 MySQL5.37, Java17, Maven, JFX
 
-###Requirement
+### Requirement
 - Docker
 - Java17
 - JFX
 - Maven
 
-##Database
+## Database
 MySQL5.37 is selected because of it is a stable version and easy to access without charge.
 
 - Database name: file
 - Table: node
 - Columns inside node: id, name, path, type
 
-##Manual Steps
+## Manual Steps
 - go to FileSystem directory
 ```bash
 cd FileSystem
