@@ -12,7 +12,7 @@ MySQL5.37, Java17, Maven, JFX
 - Maven
 
 ## Database
-MySQL5.37 is selected because of it is a stable version and easy to access without charge.
+MySQL5.37 is selected because it is a stable version and easy to access without charge.
 
 - Database name: file
 - Table: node
