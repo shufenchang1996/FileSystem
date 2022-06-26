@@ -35,5 +35,6 @@ mvn clean compile
 mvn exec:java
 ```
 - user interface open
+![](start.png)
 - search for certain file/directory with the user interface (eg. image)
 - see search result in the user interface
